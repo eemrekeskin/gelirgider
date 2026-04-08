@@ -1,4 +1,4 @@
-# keskin_hafriyat_gelir_gider
+# gelir_gider
 
 Bu uygulama keskin hafriyat şirketi için gelir gider takibi yapmak için üretildi. Kendinize göre özelleştirip kullanabilirsiniz.
 
